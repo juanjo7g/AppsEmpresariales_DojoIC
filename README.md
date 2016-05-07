@@ -1,4 +1,4 @@
-# appempic 
+# appempic
 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-url]][daviddm-image] [![Coverage Status][coveralls-image]][coveralls-url]
 
 The best module ever.
@@ -30,7 +30,7 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 ## License
 
-Copyright (c) 2016 Jonathan Diosa. Licensed under the MIT license.
+Copyright (c) 2016 Juan Martínez. Licensed under the MIT license.
 
 
 
